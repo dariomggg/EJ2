@@ -1,11 +1,11 @@
-/* ===== RESET CSS básico ===== */
+/* RESET CSS básico */
 *, *::before, *::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* ===== ESTILOS BASE ===== */
+/* ESTILOS BASE */
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #cccccc;
@@ -309,4 +309,5 @@ main {
 .site-footer a:hover {
   text-decoration: underline;
 }
+
 
