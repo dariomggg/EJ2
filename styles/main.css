@@ -34,7 +34,7 @@ main {
   color: 
 }
 
-/* ===================== CABECERA Y MENÚ SUPERIOR =================== */
+/* CABECERA Y MENÚ SUPERIOR */
 
 .site-header {
   background-color: #111;
@@ -95,7 +95,7 @@ main {
   color: #111;
 }
 
-/* ======================= MENU ======================== */
+/* MENU  */
 
 .open-menu {
   position: fixed;
@@ -116,7 +116,7 @@ main {
   transform: rotate(90deg);
 }
 
-/* ======================= MENÚ LATERAL ============================= */
+/* MENÚ LATERAL */
 
 .side-menu {
   position: fixed;
@@ -153,7 +153,7 @@ main {
   background: #ffcc00;
 }
 
-/* ======================= SECCIÓN COCHE ============================== */
+/* SECCIÓN COCHE */
 
 #coche {
   margin-top: 20px;
@@ -174,7 +174,7 @@ main {
 }
 
 
-/* ======================= TABLA =================================== */
+/* TABLA */
 
 #tabla table { 
 	width: 100%; 
@@ -201,7 +201,7 @@ main {
 	background: #ffe680; 
 }
 
-/* ======================= GALERÍA ================================= */
+/* GALERÍA */
 
 #galeria { 
 	margin-top: 40px; 
@@ -234,7 +234,7 @@ main {
 }
 
 
-/* ======================= FORMULARIO =============================== */
+/* FORMULARIO */
 
 #formulario form {
   background: white;
@@ -277,14 +277,14 @@ main {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* ======================= SECCIÓN NOTICIAS ========================= */
+/* SECCIÓN NOTICIAS */
 #noticias p {
   margin-top: 8px;
   font-size: 1.1rem;
   text-align: center;
 }
 
-/* ======================= CONTACTO ================================= */
+/* CONTACTO */
 
 #contacto {
   text-align: center;
@@ -292,7 +292,7 @@ main {
   padding: 30px 0;
 }
 
-/* ======================= FOOTER ================================== */
+/* FOOTER */
 
 .site-footer {
   background: #111;
@@ -309,3 +309,4 @@ main {
 .site-footer a:hover {
   text-decoration: underline;
 }
+
